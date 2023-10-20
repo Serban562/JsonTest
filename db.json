@@ -10,10 +10,10 @@
   ],
   "imageURLS":[
     "https://images.igdb.com/igdb/image/upload/t_original/jmcc1relpuoahl4f7uf8.jpg",
-    "//images.igdb.com/igdb/image/upload/t_thumb/gpuzyxjmbflslkfgvdy9.jpg",
-    "//images.igdb.com/igdb/image/upload/t_thumb/ckhenaeiqekkfwckcr2n.jpg",
-    "//images.igdb.com/igdb/image/upload/t_thumb/kyhpyhjltvv7nnbkshvc.jpg",
-    "//images.igdb.com/igdb/image/upload/t_thumb/mrz4vl9gkkc2dvtwfr2x.jpg"
+    "https://images.igdb.com/igdb/image/upload/t_original/gpuzyxjmbflslkfgvdy9.jpg",
+    "https://images.igdb.com/igdb/image/upload/t_original/ckhenaeiqekkfwckcr2n.jpg",
+    "https://images.igdb.com/igdb/image/upload/t_original/kyhpyhjltvv7nnbkshvc.jpg",
+    "https://images.igdb.com/igdb/image/upload/t_original/mrz4vl9gkkc2dvtwfr2x.jpg"
   ],
   "originalPrice" : "13.57",
   "newPrice": "4.20",
