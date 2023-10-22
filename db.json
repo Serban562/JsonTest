@@ -3,7 +3,7 @@
     
 {
   "Title": "Train Valley 2",
-  "Tags" :[
+  "tagsList" :[
     "Puzzle",
     "Simulation",
     "City Builder"
@@ -22,7 +22,7 @@
 },
 {
   "Title": "Warframe",
-  "Tags" :[
+  "tagsList" :[
     "Action",
     "Shooter",
     "MMORPG"
@@ -41,7 +41,7 @@
 },
 {
   "Title": "Placeholder Title",
-  "Tags" :[
+  "tagsList" :[
     "Tag1",
     "Tag2",
     "Tag3"
@@ -79,7 +79,7 @@
 },
 {
   "Title": "Placeholder Title",
-  "Tags" :[
+  "tagsList" :[
     "Tag1",
     "Tag2",
     "Tag3"
